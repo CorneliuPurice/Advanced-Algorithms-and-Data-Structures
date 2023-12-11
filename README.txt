@@ -1,4 +1,12 @@
-# London Underground Route Planner
+"""
+STUDENT - Purice Corneliu
+COMP1828 COURSEWORK
+"""
+
+Year 2, Term 1 Coursework for Advanced Algorithms and Data Structures.
+All specifications could be found in 'Coursework Specification.pdf' file.
+
+## London Underground Route Planner
 
 This project contains a set of Python scripts and data files designed to model and analyze the London Underground tube system. The main functionality includes calculating the shortest journey times and the number of stops between stations, as well as simulating station closures and analyzing their impact on the network.
 
